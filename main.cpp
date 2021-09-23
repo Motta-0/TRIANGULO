@@ -6,8 +6,6 @@
 using namespace std;
 
 
-
-
 int main()
 {
     int operacao;
@@ -57,8 +55,6 @@ int main()
     float A2 = escolha_2.area(B2,Al2);
 
 
-    
-    
         while(c ==1){
         {
                 cout << "\n\n\n     O que gostaria de saber sobre os triangulos" << endl;
@@ -102,7 +98,7 @@ int main()
         }
         
 
-        cout << "\n\n Desejasaber outra informação? Digite 1 se SIM e 0 para NAO: ";
+        cout << "\n\n Deseja saber outra informação? Digite 1 se SIM e 0 para NAO: ";
         cin >> c;
         
 
